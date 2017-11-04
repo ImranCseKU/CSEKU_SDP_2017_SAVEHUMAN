@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "519985302145",
+    "firebase_url": "https://fcmdemo-f0b95.firebaseio.com",
+    "project_id": "fcmdemo-f0b95",
+    "storage_bucket": "fcmdemo-f0b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519985302145:android:6f1ce95842933c63",
+        "android_client_info": {
+          "package_name": "com.hussain.savehuman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519985302145-dqf6jrifd8kssir8ujhjqjdurvt1t3ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hussain.savehuman",
+            "certificate_hash": "5d489e073f0bfe4e8b463911d59e90068ec549e5"
+          }
+        },
+        {
+          "client_id": "519985302145-aqsi0rdoruedijcnfojub08rb8rf0766.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxnJik_znkUZGvfSivcWBfz6D8iSXORtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519985302145-aqsi0rdoruedijcnfojub08rb8rf0766.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_seventh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00BF9A"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hussain.savehuman.SeventhActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:text="Write Message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_seven"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/editText_smsSend"
+        android:hint="write massage" />
+
+
+    <Button
+        android:text="SEND SMS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_margin="@dimen/cast_expanded_controller_control_button_margin"
+        android:background="@color/colorPrimary"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/button_smsSend" />
+
+</LinearLayout>
