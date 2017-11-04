@@ -20,7 +20,7 @@ KHULNA UNIVERSITY<br><br>
 ----------------------------
 Supervised BY:
 ----------------------------
-Dr. KAZI MASUDUL ISLAM<br>
+Dr. KAZI MASUDUL ALAM<br>
 Assistant Professor<br>
 CSE Discipline,Khulna University<br>
 Bangladesh<br>
