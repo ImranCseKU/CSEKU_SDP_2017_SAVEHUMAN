@@ -18,10 +18,11 @@ Durjoy Bapery<br>
 Student ID:150229<br>
 KHULNA UNIVERSITY<br><br>
 ----------------------------
-supervised BY:
+Supervised BY:
 ----------------------------
 Dr. KAZI MASUDUL ISLAM<br>
 Assistant Professor<br>
 CSE Discipline,Khulna University<br>
-Bangladesh
+Bangladesh<br>
+----------------------------
 
