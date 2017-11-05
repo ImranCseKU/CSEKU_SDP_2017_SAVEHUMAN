@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_fifth"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00BF9A"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hussain.savehuman.FifthActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="View User Location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:textStyle="bold"
+            android:id="@+id/textView2"
+            android:layout_weight="1"
+            android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" />
+
+        <Button
+            android:text="LOCATION"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/userLocation_btn"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:id="@+id/identification_txt" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <Button
+        android:text="MAKE CALL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:background="@color/colorPrimary"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="6dp"
+        android:textColor="#ffffff"
+        android:layout_weight="1"
+        android:id="@+id/button_call" />
+
+
+        <Button
+            android:text="SEND SMS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="@color/colorPrimary"
+            android:textColor="#ffffff"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1"
+            android:id="@+id/button_sms" />
+
+    </LinearLayout>
+
+    <!--<TextView
+        android:text="Write Message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_fifth"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/editText_sms"
+        android:hint="write massage" />
+
+    <Button
+        android:text="SEND SMS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:background="#cddc39"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/button_sms" />
+
+    <Button
+        android:text="SEND EMAIL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:background="#cddc39"
+        android:id="@+id/button_email" />-->
+</LinearLayout>

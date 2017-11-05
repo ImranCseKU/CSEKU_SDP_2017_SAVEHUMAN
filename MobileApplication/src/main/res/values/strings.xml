@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SAVE HUMAN</string>
+    <string name="google_maps_key"></string>
+    <string name="localhost_IP">http://192.168.43.34/savehuman/</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_user_location">Map</string>
+
+</resources>
