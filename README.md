@@ -1,7 +1,7 @@
 # CSEKU_SDP_2017_SAVEHUMAN<br>
 A Blood Donation Android App<br>
 Title:SAVEHUMAN<br><br>
-Project Location:Computer Science & Engineering Discipline<br>
+Project Location: Computer Science & Engineering Discipline<br>
 Khulna University, Khulna<br>
 Bangladesh.
 ----------------------------
