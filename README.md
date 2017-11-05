@@ -21,8 +21,8 @@ KHULNA UNIVERSITY<br><br>
 Supervised BY:
 ----------------------------
 Dr. KAZI MASUDUL ALAM<br>
-Assistant Professor<br>
-CSE Discipline,Khulna University<br>
-Bangladesh<br>
+Associate Professor<br>
+Computer Science And Engineering Discipline<br>
+Khulna University<br>
 ----------------------------
 
