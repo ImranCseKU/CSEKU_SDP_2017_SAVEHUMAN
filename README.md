@@ -1,6 +1,10 @@
 # CSEKU_SDP_2017_SAVEHUMAN<br>
 A Blood Donation Android App<br>
-Title:SAVEHUMAN<br>
+Title:SAVEHUMAN<br><br>
+Project Location:Computer Science & Engineering Discipline<br>
+Khulna University, Khulna<br>
+Bangladesh.
+----------------------------
 This is a server based Online app.Using this app a person easily find a Donor and contact with them.Can see their Location,search nearBy Hospital.User can also see the distance between corresponding donor and him/her.<br><br>
 
 ---------------------------
