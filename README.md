@@ -1,7 +1,7 @@
 # CSEKU_SDP_2017_SAVEHUMAN<br>
 A Blood Donation Android App<br>
 Title:SAVEHUMAN<br>
-This is a server based Online app.Using this app a person easily find a Doner and contact with them.Can see their Locaton,search nearBy Hospital.User can also see the distance between corresponding doner and him/her.<br><br>
+This is a server based Online app.Using this app a person easily find a Donor and contact with them.Can see their Location,search nearBy Hospital.User can also see the distance between corresponding donor and him/her.<br><br>
 
 ---------------------------
 developed by:
